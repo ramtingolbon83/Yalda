@@ -1,6 +1,6 @@
 import json
 
-from model.client import ModelClient
+from models.client import ModelClient
 from tools.registry import tool_registry
 
 
